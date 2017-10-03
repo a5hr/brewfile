@@ -31,6 +31,7 @@ brew cocoapods
 brew libyaml
 brew openssl
 brew zsh
+brew pkg-config
 
 tap caskroom/versions
 
@@ -46,6 +47,7 @@ cask iterm2
 cask xmind
 cask vagrant
 cask clipy
+cask 1password
 cask flash-player
 cask vagrant-manager
 cask google-chrome
