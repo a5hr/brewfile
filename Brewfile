@@ -28,6 +28,7 @@ brew jq
 brew libtool
 brew readline
 brew cocoapods
+brew grep
 brew libyaml
 brew openssl
 brew zsh
