@@ -26,13 +26,16 @@ brew imagemagick
 brew python
 brew jq
 brew libtool
+brew grep
 brew readline
 brew cocoapods
-brew grep
+brew postgresql
 brew libyaml
 brew openssl
 brew zsh
 brew pkg-config
+
+tap homebrew/services
 
 tap caskroom/versions
 
