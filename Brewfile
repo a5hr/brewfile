@@ -19,6 +19,7 @@ brew libyaml
 brew mas
 brew oniguruma
 brew openssl
+brew openssl@1.1
 brew pcre
 brew perl
 brew pkg-config
@@ -30,6 +31,7 @@ brew sqlite
 brew tig
 brew vagrant-completion
 brew vim
+brew wget
 brew xz
 brew zsh
 brew zsh-completions
@@ -41,6 +43,7 @@ tap homebrew/services
 tap caskroom/cask
 cask slack
 cask fastlane
+cask cheatsheet
 cask phpstorm
 cask virtualbox
 cask skype
@@ -69,6 +72,7 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 408981434 iMovie (10.1.7)
+appstore 408981434 iMovie (10.1.8)
 appstore 409183694 Keynote (7.3)
-appstore 497799835 Xcode (9.0.1)
+appstore 715768417 Microsoft Remote Desktop (8.0.27325)
+appstore 497799835 Xcode (9.1)
