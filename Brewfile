@@ -28,6 +28,7 @@ brew python
 brew readline
 brew ruby
 brew sqlite
+brew swiftformat
 brew tig
 brew vagrant-completion
 brew vim
@@ -58,6 +59,7 @@ cask clipy
 cask 1password
 cask flash-player
 cask vagrant-manager
+cask hyperswitch
 cask google-chrome
 cask google-japanese-ime
 cask filezilla
@@ -73,6 +75,6 @@ brew brew-file
 
 # App Store applications
 appstore 408981434 iMovie (10.1.8)
-appstore 409183694 Keynote (7.3)
+appstore 409183694 Keynote (7.3.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
 appstore 497799835 Xcode (9.1)
