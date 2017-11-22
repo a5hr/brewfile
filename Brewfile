@@ -8,6 +8,7 @@ brew coreutils
 brew freetype
 brew gdbm
 brew git
+brew git-secrets
 brew grep
 brew imagemagick
 brew jpeg
@@ -25,6 +26,7 @@ brew perl
 brew pkg-config
 brew postgresql
 brew python
+brew python3
 brew readline
 brew ruby
 brew sqlite
