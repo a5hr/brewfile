@@ -53,6 +53,7 @@ cask skype
 cask macdown
 cask showyedge
 cask the-unarchiver
+cask postman
 cask iterm2
 cask xmind
 cask docker
@@ -79,4 +80,4 @@ brew brew-file
 appstore 408981434 iMovie (10.1.8)
 appstore 409183694 Keynote (7.3.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
-appstore 497799835 Xcode (9.1)
+appstore 497799835 Xcode (9.2)
