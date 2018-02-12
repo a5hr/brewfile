@@ -54,6 +54,9 @@ brew zsh-completions
 
 tap homebrew/completions
 
+tap homebrew/php
+brew composer
+
 tap homebrew/services
 
 tap caskroom/cask
