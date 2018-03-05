@@ -2,29 +2,51 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew apr
+brew apr-util
+brew argon2
+brew aspell
+brew boost
+brew c-ares
 brew cloc
 brew cocoapods
 brew coreutils
 brew eigen
 brew ffmpeg
+brew freetds
 brew freetype
 brew gdbm
 brew gettext
 brew git
 brew git-secrets
+brew glib
+brew gmp
 brew grep
+brew httpd
+brew icu4c
 brew ilmbase
 brew imagemagick
+brew imap-uw
+brew jansson
+brew jemalloc
 brew jpeg
 brew jq
 brew lame
+brew libev
+brew libevent
+brew libffi
 brew libidn2
 brew libpng
+brew libpq
+brew libsodium
 brew libtiff
 brew libtool
 brew libunistring
+brew libxml2
 brew libyaml
+brew libzip
 brew mas
+brew nghttp2
 brew numpy
 brew oniguruma
 brew opencv
@@ -33,18 +55,21 @@ brew openssl
 brew openssl@1.1
 brew pcre
 brew perl
+brew php
 brew pkg-config
 brew postgresql
 brew python
-brew python3
+brew python@2
 brew readline
 brew ruby
 brew sqlite
 brew swiftformat
 brew tbb
 brew tig
+brew unixodbc
 brew vagrant-completion
 brew vim
+brew webp
 brew wget
 brew x264
 brew xvid
@@ -56,6 +81,7 @@ tap homebrew/completions
 
 tap homebrew/php
 brew composer
+brew php72-mailparse
 
 tap homebrew/services
 
