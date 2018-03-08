@@ -7,6 +7,7 @@ brew apr-util
 brew argon2
 brew aspell
 brew boost
+brew brotli
 brew c-ares
 brew cloc
 brew cocoapods
@@ -108,6 +109,7 @@ cask vagrant-manager
 cask hyperswitch
 cask google-chrome
 cask google-japanese-ime
+cask provisionql
 cask filezilla
 cask java
 cask sourcetree
