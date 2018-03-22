@@ -47,7 +47,9 @@ brew libxml2
 brew libyaml
 brew libzip
 brew mas
+brew mitmproxy
 brew nghttp2
+brew node
 brew numpy
 brew oniguruma
 brew opencv
@@ -59,10 +61,12 @@ brew perl
 brew php
 brew pkg-config
 brew postgresql
+brew protobuf
 brew python
 brew python@2
 brew readline
 brew ruby
+brew sphinx-doc
 brew sqlite
 brew swiftformat
 brew tbb
