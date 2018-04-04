@@ -11,6 +11,7 @@ brew brotli
 brew c-ares
 brew cloc
 brew cocoapods
+brew composer
 brew coreutils
 brew eigen
 brew ffmpeg
@@ -85,8 +86,6 @@ brew zsh-completions
 tap homebrew/completions
 
 tap homebrew/php
-brew composer
-brew php72-mailparse
 
 tap homebrew/services
 
@@ -127,7 +126,7 @@ brew brew-file
 
 # App Store applications
 appstore 408981434 iMovie (10.1.8)
-appstore 409183694 Keynote (7.3.1)
+appstore 409183694 Keynote (8.0)
 appstore 441258766 Magnet (2.1.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
-appstore 497799835 Xcode (9.2)
+appstore 497799835 Xcode (9.3)
