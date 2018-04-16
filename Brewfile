@@ -6,6 +6,7 @@ brew apr
 brew apr-util
 brew argon2
 brew aspell
+brew autoconf
 brew boost
 brew brotli
 brew c-ares
@@ -102,6 +103,7 @@ cask google-chrome
 cask google-japanese-ime
 cask hyperswitch
 cask iterm2
+cask jad
 cask java
 cask macdown
 cask phpstorm
@@ -125,7 +127,7 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 408981434 iMovie (10.1.8)
+appstore 408981434 iMovie (10.1.9)
 appstore 409183694 Keynote (8.0)
 appstore 441258766 Magnet (2.1.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
