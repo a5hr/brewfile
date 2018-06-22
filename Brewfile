@@ -5,8 +5,10 @@ tap homebrew/core
 brew apr
 brew apr-util
 brew argon2
+brew asn1c
 brew aspell
 brew autoconf
+brew aws-elasticbeanstalk
 brew boost
 brew brotli
 brew c-ares
@@ -68,8 +70,10 @@ brew python
 brew python@2
 brew readline
 brew ruby
+brew siege
 brew sphinx-doc
 brew sqlite
+brew swagger-codegen
 brew swiftformat
 brew tbb
 brew tig
@@ -84,51 +88,55 @@ brew xz
 brew zsh
 brew zsh-completions
 
+tap homebrew/cask-versions
+
 tap homebrew/completions
 
 tap homebrew/php
 
 tap homebrew/services
 
-tap caskroom/cask
+tap homebrew/cask
 cask 1password
-cask aws-vault
 cask cheatsheet
-cask clipy
 cask docker
-cask fastlane
 cask filezilla
-cask flash-player
 cask google-chrome
-cask google-japanese-ime
 cask hyperswitch
 cask iterm2
-cask jad
 cask java
-cask macdown
 cask phpstorm
-cask postman
 cask provisionql
-cask psequel
 cask showyedge
-cask skitch
 cask skype
-cask slack
 cask sourcetree
-cask the-unarchiver
 cask vagrant
-cask vagrant-manager
 cask virtualbox
-cask xmind
-
-tap caskroom/versions
 
 tap rcmdnk/file
 brew brew-file
 
+# Other Cask applications
+cask aws-vault
+cask clipy
+cask fastlane
+cask flash-player
+cask google-japanese-ime
+cask istat-menus
+cask jad
+cask macdown
+cask postman
+cask psequel
+cask skitch
+cask slack
+cask the-unarchiver
+cask vagrant-manager
+cask xmind
+
 # App Store applications
 appstore 408981434 iMovie (10.1.9)
-appstore 409183694 Keynote (8.0)
+appstore 409183694 Keynote (8.1)
 appstore 441258766 Magnet (2.1.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
-appstore 497799835 Xcode (9.3)
+appstore 540348655 Monosnap (3.4.15)
+appstore 497799835 Xcode (9.4.1)
