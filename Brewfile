@@ -105,13 +105,14 @@ cask google-chrome
 cask hyperswitch
 cask iterm2
 cask java
-cask phpstorm
-cask provisionql
-cask showyedge
-cask skype
-cask sourcetree
-cask vagrant
-cask virtualbox
+cask macdown
+cask postman
+cask psequel
+cask skitch
+cask slack
+cask the-unarchiver
+cask vagrant-manager
+cask xmind
 
 tap rcmdnk/file
 brew brew-file
@@ -124,19 +125,19 @@ cask flash-player
 cask google-japanese-ime
 cask istat-menus
 cask jad
-cask macdown
-cask postman
-cask psequel
-cask skitch
-cask slack
-cask the-unarchiver
-cask vagrant-manager
-cask xmind
+cask karabiner-elements
+cask phpstorm
+cask provisionql
+cask showyedge
+cask skype
+cask sourcetree
+cask vagrant
+cask virtualbox
 
 # App Store applications
 appstore 408981434 iMovie (10.1.9)
 appstore 409183694 Keynote (8.1)
 appstore 441258766 Magnet (2.2.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
-appstore 540348655 Monosnap (3.4.15)
+appstore 540348655 Monosnap (3.4.16)
 appstore 497799835 Xcode (9.4.1)
