@@ -51,6 +51,7 @@ brew libxml2
 brew libyaml
 brew libzip
 brew mas
+brew maven
 brew mitmproxy
 brew nghttp2
 brew node
@@ -111,8 +112,8 @@ cask psequel
 cask skitch
 cask slack
 cask the-unarchiver
-cask vagrant-manager
-cask xmind
+cask vagrant
+cask virtualbox
 
 tap rcmdnk/file
 brew brew-file
@@ -131,13 +132,14 @@ cask provisionql
 cask showyedge
 cask skype
 cask sourcetree
-cask vagrant
-cask virtualbox
+cask typora
+cask vagrant-manager
+cask xmind
 
 # App Store applications
 appstore 408981434 iMovie (10.1.9)
 appstore 409183694 Keynote (8.1)
-appstore 441258766 Magnet (2.2.0)
+appstore 441258766 Magnet (2.2.2)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
-appstore 540348655 Monosnap (3.4.16)
+appstore 540348655 Monosnap (3.4.17)
 appstore 497799835 Xcode (9.4.1)
